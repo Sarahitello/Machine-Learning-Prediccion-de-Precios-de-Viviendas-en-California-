@@ -33,7 +33,7 @@ Este proyecto aplica **técnicas avanzadas de Machine Learning** para predecir e
 
 ## 🚀 ¿Cómo Ejecutar el Proyecto?
 1. **Abrir en Google Colab**:
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarahitello/Predicción_de_precios_de_viviendas_ML/blob/main/Predicción_de_precios_de_viviendas_using_Machine_Learning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarahitello/Predicción_de_precios_de_viviendas_ML/blob/main/Predicción_de_precios_de_viviendas_using_Machine_Learning.ipynb)
 
 2. **Instalar dependencias** (si es necesario):
    ```bash
