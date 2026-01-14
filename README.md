@@ -33,20 +33,20 @@ Este proyecto aplica **técnicas avanzadas de Machine Learning** para predecir e
 
 ## 🚀 ¿Cómo Ejecutar el Proyecto?
 1. **Abrir en Google Colab**:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarahitello/Predicción_de_precios_de_viviendas_ML/blob/main/Predicción_de_precios_de_viviendas_using_Machine_Learning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarahitello/Proyecto-IA-Vision-Computacional/blob/main/Sistema_de_detección_automática_de_objetos_en_imágenes.ipynb)
 
-2. **Instalar dependencias** (si es necesario):
+3. **Instalar dependencias** (si es necesario):
    ```bash
    !pip install pandas numpy scikit-learn matplotlib seaborn
    ```
 
-3. **Cargar el dataset**:
+4. **Cargar el dataset**:
    ```python
    from sklearn.datasets import fetch_california_housing
    df = fetch_california_housing(as_frame=True).frame
    ```
 
-4. **Ejecutar el notebook** para ver el análisis exploratorio, limpieza de datos, modelado y evaluación.
+5. **Ejecutar el notebook** para ver el análisis exploratorio, limpieza de datos, modelado y evaluación.
 
 ---
 
