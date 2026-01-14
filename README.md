@@ -33,7 +33,7 @@ Este proyecto aplica **técnicas avanzadas de Machine Learning** para predecir e
 
 ## 🚀 ¿Cómo Ejecutar el Proyecto?
 1. **Abrir en Google Colab**:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarahitello/Proyecto-IA-Vision-Computacional/blob/main/Sistema_de_detección_automática_de_objetos_en_imágenes.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarahitello/Machine-Learning-Prediccion-de-Precios-de-Viviendas-en-California/blob/main/Predicción_de_precios_de_viviendas_usando_Machine_Learning.ipynb)
 
 3. **Instalar dependencias** (si es necesario):
    ```bash
