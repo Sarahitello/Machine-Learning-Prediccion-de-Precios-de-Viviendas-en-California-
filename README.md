@@ -1,12 +1,11 @@
 # **📊 Predicción de Precios de Viviendas en California con Machine Learning**
 
 
-**Desarrollado por [Sarahi Lilian Tello Torres]**
+**Sarahi Lilian Tello Torres [Data Scientist | Machine Learning & Applied Mathematics]**
 📍 *México, CDMX*
 🔗 [GitHub](https://github.com/Sarahitello) | [LinkedIn](www.linkedin.com/in/sarahi-lilian-tello-torres-568741202)
-*Data Scientist | Machine Learning & Applied Mathematics***
+****
 
----
 
 ## 📌 Descripción
 Este proyecto aplica **técnicas avanzadas de Machine Learning** para predecir el valor medio de las viviendas en **California**, utilizando el dataset oficial de **scikit-learn**. Se emplean modelos de **ensamble** como **Random Forest** y **Gradient Boosting**, que permiten capturar relaciones no lineales y manejar valores atípicos de manera robusta.
